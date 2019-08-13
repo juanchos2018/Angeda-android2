@@ -5,4 +5,5 @@
     <string name="txtdatos">datos</string>
     <string name="boton1">guardar</string>
     <string name="boton2">buscar</string>
+    <string name="boton4"> Buscar  4</string>
 </resources>
