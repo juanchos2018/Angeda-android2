@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="txtnombre">Nombre</string>
+
+    <string name="txtdatos">datos</string>
+    <string name="boton1">guardar</string>
+    <string name="boton2">buscar</string>
+</resources>
