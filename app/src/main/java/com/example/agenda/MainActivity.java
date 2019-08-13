@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         objEdit.putString(nombre,da);
         objEdit.commit();
         Toast.makeText(this, "se almaceno", Toast.LENGTH_SHORT).show();
+
     }
     public  void Buscar(View view){
     String nombre =txtno.getText().toString();
